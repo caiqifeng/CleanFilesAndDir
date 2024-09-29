@@ -1,0 +1,1 @@
+python D:\CleanDirAndFiles\CleanFilesAndDir.py
